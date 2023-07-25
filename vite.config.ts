@@ -1,3 +1,3 @@
 export default {
-    base: '/myproject/'
+    base: '/Login-Form/'
 }
